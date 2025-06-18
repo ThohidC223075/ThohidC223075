@@ -4,7 +4,7 @@ I'm an enthusiastic coder passionate about exploring new technologies and solvin
 
 ---
 
-## 🔧 Skills
+## 🔧                    Skills
 
 - **Languages:** Python, C, C++, JavaScript, HTML, CSS  
 - **Tools & Frameworks:** (You can add React, Django, Flutter, or others if you know them)  
