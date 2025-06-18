@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Thofiqul Islam 👋
 
-<!--
-**ThohidC223075/ThohidC223075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic coder passionate about exploring new technologies and solving problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** Python, C, C++, JavaScript, HTML, CSS  
+- **Tools & Frameworks:** (You can add React, Django, Flutter, or others if you know them)  
+- **Interests:** Problem solving, algorithms, web development, AI, drone technology
+
+---
+
+## 🚀 Projects
+
+Here are some of my key projects:
+
+- **[Project Name 1](repo-link-1):** Brief description  
+- **[Project Name 2](repo-link-2):** Brief description  
+- **[Project Name 3](repo-link-3):** Brief description  
+
+*(Replace these with your actual projects)*
+
+---
+
+## 📫 Contact Me
+
+- Email: shahidulislam.dev@gmail.com  
+- LinkedIn: [linkedin.com/in/shahidulislam](https://linkedin.com/in/shahidulislam)  
+- Twitter: [twitter.com/shahidulislam](https://twitter.com/shahidulislam)  
+
+---
+
+*“Always ready to face new challenges and learn something new.”*
+
