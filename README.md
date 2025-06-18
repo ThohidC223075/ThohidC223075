@@ -1,5 +1,11 @@
 # Hi there, I'm Thofiqul Islam 👋
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+Programmer;Problem+Solver;Tech+Explorer)](https://git.io/typing-svg)
+
+
+
 I'm an enthusiastic coder passionate about exploring new technologies and solving problems.
 
 ---
